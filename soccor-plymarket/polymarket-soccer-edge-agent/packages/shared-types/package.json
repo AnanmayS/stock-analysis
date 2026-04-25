@@ -1,8 +1,0 @@
-{
-  "name": "@polymarket-soccer-edge/shared-types",
-  "version": "0.1.0",
-  "private": true,
-  "type": "module",
-  "main": "index.ts"
-}
-
