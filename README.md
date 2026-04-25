@@ -1,4 +1,4 @@
-# Stock Research AI
+# AI Equity Research Platform
 
 A full-stack web app for researching public stocks in plain English.
 
